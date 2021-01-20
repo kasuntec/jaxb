@@ -1,0 +1,6 @@
+
+context:
+    path: com.hcl.kn.kt.commonschemas
+
+schema:
+    location: xsd/customer.xsd
